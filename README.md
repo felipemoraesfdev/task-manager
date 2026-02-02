@@ -1,6 +1,6 @@
 # 📝 Task Manager — Vanilla JavaScript
 
-A simple and modern **Task Manager application** built with **HTML, CSS and Vanilla JavaScript**, focused on clean UI, usability and core front-end fundamentals.
+A simple and modern task manager built with HTML, CSS and Vanilla JavaScript, focused on clean UI, usability and core front-end fundamentals.
 
 This project was developed to practice **DOM manipulation, application state, filtering, sorting logic and local storage persistence**.
 
@@ -23,8 +23,8 @@ This project was developed to practice **DOM manipulation, application state, fi
   - Transitions
   - Glassmorphism
 - **JavaScript (Vanilla JS)**
-  - DOM manipulation
-  - Event handling
+  - DOM Manipulation
+  - Event Handling
   - Local Storage API
 
 ## 📂 Project Structure
