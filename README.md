@@ -38,7 +38,6 @@ task-manager/
 └── script/
     └── script.js
 
-
 ## 👤 Author
 
 Felipe Santana Moraes / Front-End Developer
