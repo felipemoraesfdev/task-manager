@@ -29,14 +29,14 @@ This project was developed to practice **DOM manipulation, application state, fi
 
 ## 📂 Project Structure
 
-task-manager/
-├── index.html
-├── style/
-│   ├── style.css
-│   └── img/
-│       └── wallpaper.jpg
-└── script/
-    └── script.js
+    task-manager/
+    ├── index.html
+    ├── style/
+    │   ├── style.css
+    │   └── img/
+    │       └── wallpaper.jpg
+    └── script/
+        └── script.js
 
 ## 👤 Author
 
