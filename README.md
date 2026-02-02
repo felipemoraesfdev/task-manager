@@ -26,17 +26,17 @@ This project was developed to practice **DOM manipulation, application state, fi
   - DOM manipulation
   - Event handling
   - Local Storage API
-  - 
+
 ## 📂 Project Structure
 
 task-manager/
-├── index.html # Main HTML file
+├── index.html
 ├── style/
-│ ├── style.css # Application styles
+│ ├── style.css
 │ └── img/
-│ └── wallpaper.jpg # Background image
+│ └── wallpaper.jpg
 └── script/
-└── script.js # Application logic
+└── script.js
 
 ## 👤 Author
 
