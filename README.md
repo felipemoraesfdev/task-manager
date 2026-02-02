@@ -30,12 +30,15 @@ This project was developed to practice **DOM manipulation, application state, fi
 ## 📂 Project Structure
 
 task-manager/
-│── index.html
+├── index.html # Main HTML file
 ├── style/
-│   └── style.css
-│   └── img/
-│       └── wallpaper.jpg
-├── script/
-    └── script.js
+│ ├── style.css # Application styles
+│ └── img/
+│ └── wallpaper.jpg # Background image
+└── script/
+└── script.js # Application logic
 
+## 👤 Author
 
+Felipe Santana Moraes / Front-End Developer
+🔗 GitHub: https://github.com/felipemoraesfdev
