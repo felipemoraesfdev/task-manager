@@ -32,11 +32,12 @@ This project was developed to practice **DOM manipulation, application state, fi
 task-manager/
 ├── index.html
 ├── style/
-│ ├── style.css
-│ └── img/
-│ └── wallpaper.jpg
+│   ├── style.css
+│   └── img/
+│       └── wallpaper.jpg
 └── script/
-└── script.js
+    └── script.js
+
 
 ## 👤 Author
 
